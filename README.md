@@ -1,6 +1,4 @@
-Absolutely, Aditya! Based on your awesome concept—a gamified coding platform with quizzes, interactive games like "King vs Monster" for loops, crossword-style challenges for Java classes, and coding puzzles—here's a compelling and polished `README.md` description you can use for your GitHub project:
 
----
 
 # 🎮 CodeQuest: Gamified Learning Platform for Coding Beginners
 
